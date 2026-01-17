@@ -1,4 +1,5 @@
-# 🧑🏽‍💻 Neimar Moura
+
+# 🧑‍💻 Neimar Moura
 
 **`Desenvolvedor FullStack`**
 
@@ -8,6 +9,23 @@ Atualmente, estudo na área de tecnologia e administração, realizando cursos v
 
 
 ---
+
+<p align="left">
+  <a href="mailto:seuemail@gmail.com">
+    <img
+      alt="Gmail"
+      title="Gmail"
+      src="https://custom-icon-badges.demolab.com/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white&style=for-the-badge"
+    />
+  </a>
+  <img
+    alt="Localização"
+    title="Manaus - AM | Brasil"
+    src="https://custom-icon-badges.demolab.com/badge/Manaus-AM%20|%20Brasil-0A66C2?logo=location&logoColor=white&style=for-the-badge"
+  />
+</p>
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -58,3 +76,20 @@ Atualmente, estudo na área de tecnologia e administração, realizando cursos v
 <br/>
 <br/>
 
+### 📊 Estatísticas
+
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=NeimarMouradedeus&show_icons=true&theme=tokyonight"
+  />
+
+  <img
+    align="left"
+    alt="Top Languages"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeimarMouradedeus&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
+</p>
